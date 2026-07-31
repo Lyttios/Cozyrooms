@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+Assets/AssetStoreTools*
+
+# Visual Studio / Rider / VSCode
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+.idea/
+
+# Node / server
+node_modules/
+dist/
+
+# Docker
+docker-compose.override.yml
+
+# Mac / general
+.DS_Store
+.env
+.env.local
